@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Saurav Shinde
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building scalable and efficient applications. Currently, I'm focusing on enhancing my skills in backend development and exploring distributed systems.
 
-<!--
-**Saurav-Shinde/Saurav-Shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What I'm Working On
+dabba-express: A lightweight and flexible Express.js framework designed for rapid API development. It aims to simplify the process of building RESTful services with minimal boilerplate.
 
-Here are some ideas to get you started:
+🌱 I'm Currently Learning
+Advanced Node.js patterns and best practices
+React Native 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I'm Looking to Collaborate On
+Open-source projects related to backend development
+Contributions to Express.js middleware libraries
+
+🤔 I'm Looking for Help With
+Implementing advanced caching strategies in Express.js
+Integrating GraphQL with RESTful APIs
+
+📫 How to Reach Me
+GitHub: https://github.com/Saurav-Shinde
+Email: sauravshindee26@gmail.com
+Linkedin: https://www.linkedin.com/in/saurav-shinde-b89558237/
